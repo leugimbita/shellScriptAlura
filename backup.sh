@@ -10,3 +10,4 @@ else
 
 	echo "Diretório $diretorio_backup não existe"
 fi
+#Colocando um comentário para ver se realmente funciona essa bagaça!
