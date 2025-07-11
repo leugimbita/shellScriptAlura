@@ -1,0 +1,1 @@
+Esse arquivo era virgem, até o GIT vir e desbravar tudo
