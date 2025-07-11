@@ -1,0 +1,16 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         237  0.0  0.0 107028 22852 ?        Ssl  10:10   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         165  0.0  0.0 1755840 18132 ?       Ssl  10:10   0:00 /usr/libexec/wsl-pro-service -vv
+root          54  0.3  0.0  66840 15904 ?        S<s  10:10   0:04 /usr/lib/systemd/systemd-journald
+root           1  0.0  0.0  21836 13120 ?        Ss   10:10   0:00 /sbin/init
+systemd+     135  0.0  0.0  21452 11764 ?        Ss   10:10   0:00 /usr/lib/systemd/systemd-resolved
+guiggs17     470  0.0  0.0  20264 11528 ?        Ss   10:11   0:00 /usr/lib/systemd/systemd --user
+polkitd     1208  0.0  0.0 308164  9972 ?        Ssl  10:17   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         158  0.0  0.0  18136  8348 ?        Ss   10:10   0:00 /usr/lib/systemd/systemd-logind
+systemd+     136  0.0  0.0  91020  6508 ?        Ssl  10:10   0:00 /usr/lib/systemd/systemd-timesyncd
+root          96  0.0  0.0  23860  6040 ?        Ss   10:10   0:00 /usr/lib/systemd/systemd-udevd
+guiggs17     380  0.0  0.0   6200  5476 pts/0    Ss   10:11   0:00 -bash
+syslog       227  0.0  0.0 222508  5304 ?        Ssl  10:10   0:00 /usr/sbin/rsyslogd -n -iNONE
+message+     143  0.0  0.0   9656  5268 ?        Ss   10:10   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+guiggs17     484  0.0  0.0   6072  5212 pts/1    S+   10:11   0:00 -bash
+root         381  0.0  0.0   6664  4476 pts/1    Ss   10:11   0:00 /bin/login -f

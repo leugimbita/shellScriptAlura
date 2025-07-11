@@ -1,0 +1,5 @@
+2025-07-10T10:11:23.756853-03:00 DESKTOP-Q1DK84J kernel: 2025-07-10T10:11:23.756853-03:00 DESKTOP-Q1DK84J kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-07-10T10:11:23.756856-03:00 DESKTOP-Q1DK84J kernel: 2025-07-10T10:11:23.756856-03:00 DESKTOP-Q1DK84J kernel: Failed to connect to bus: No such file or directory
+2025-07-10T10:11:33.380612-03:00 DESKTOP-Q1DK84J systemd[545]: 2025-07-10T10:11:33.380612-03:00 DESKTOP-Q1DK84J systemd[545]: init.scope: Failed to delete controller cgroups /user.slice/user-0.slice/user@0.service/init.scope, ignoring: Device or resource busy
+2025-07-10T14:03:40.529775-03:00 DESKTOP-Q1DK84J kernel: 2025-07-10T14:03:40.529775-03:00 DESKTOP-Q1DK84J kernel: WSL (180) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-07-10T16:06:20.969843-03:00 DESKTOP-Q1DK84J systemd[5334]: 2025-07-10T16:06:20.969843-03:00 DESKTOP-Q1DK84J systemd[5334]: init.scope: Failed to delete controller cgroups /user.slice/user-0.slice/user@0.service/init.scope, ignoring: Device or resource busy

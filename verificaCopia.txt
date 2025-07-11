@@ -1,0 +1,4 @@
+Backup Finalizado em backup_20250709_214000.tar.gz
+Backup Finalizado em backup_20250709_214101.tar.gz
+Backup Finalizado em backup_20250709_214201.tar.gz
+Backup Finalizado em backup_20250709_214301.tar.gz
